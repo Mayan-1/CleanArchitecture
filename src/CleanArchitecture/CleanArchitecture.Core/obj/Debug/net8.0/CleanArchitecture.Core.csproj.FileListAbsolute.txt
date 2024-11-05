@@ -1,0 +1,11 @@
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\bin\Debug\net8.0\CleanArchitecture.Core.deps.json
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\bin\Debug\net8.0\CleanArchitecture.Core.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\bin\Debug\net8.0\CleanArchitecture.Core.pdb
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\obj\Debug\net8.0\CleanArchitecture.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\obj\Debug\net8.0\CleanArchitecture.Core.AssemblyInfoInputs.cache
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\obj\Debug\net8.0\CleanArchitecture.Core.AssemblyInfo.cs
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\obj\Debug\net8.0\CleanArchitecture.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\obj\Debug\net8.0\CleanArchitecture.Core.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\obj\Debug\net8.0\refint\CleanArchitecture.Core.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\obj\Debug\net8.0\CleanArchitecture.Core.pdb
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\obj\Debug\net8.0\ref\CleanArchitecture.Core.dll

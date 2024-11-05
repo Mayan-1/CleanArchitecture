@@ -1,0 +1,17 @@
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\bin\Debug\net8.0\CleanArchitecture.Infra.deps.json
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\bin\Debug\net8.0\CleanArchitecture.Infra.runtimeconfig.json
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\bin\Debug\net8.0\CleanArchitecture.Infra.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\bin\Debug\net8.0\CleanArchitecture.Infra.pdb
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\bin\Debug\net8.0\CleanArchitecture.Core.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\bin\Debug\net8.0\CleanArchitecture.Core.pdb
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\CleanArchitecture.Infra.csproj.AssemblyReference.cache
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\CleanArchitecture.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\CleanArchitecture.Infra.AssemblyInfoInputs.cache
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\CleanArchitecture.Infra.AssemblyInfo.cs
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\CleanArchitecture.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\CleanArc.833CC103.Up2Date
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\CleanArchitecture.Infra.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\refint\CleanArchitecture.Infra.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\CleanArchitecture.Infra.pdb
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\CleanArchitecture.Infra.genruntimeconfig.cache
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\ref\CleanArchitecture.Infra.dll
