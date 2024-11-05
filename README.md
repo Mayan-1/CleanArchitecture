@@ -66,8 +66,11 @@ dependency is inverted: infrastructure and implementation details depend on the 
 
 ### Organizing Code in Clean Architeture
 
-In a Clean Architecture solution, each project has clear responsibilities. As such, certain types belong
-in each project and you’ll frequently find folders corresponding to these types in the appropriate
+In a Clean Architecture solution, ![image1](https://github.com/user-attachments/assets/8f43a9e5-be4a-4f7a-8b31-2cb4747aba61)
+each project has clear responsibilities. As such, certain types belong
+in each project and you’ll freq![image3](![image](https://github.com/user-attachments/assets/5aa61ed5-5a16-4498-ae1f-a04a57069dbb)
+https://github.com/user-attachments/assets/f012a8de-7a96-4d44-aea3-1ff57cc15c26)
+uently find folders corresponding to these types in the appropriate
 project
 
 ### Advantages
