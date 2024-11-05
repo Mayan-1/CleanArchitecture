@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{858A205F-78F2-46D8-AE23-8C99B0A0C241}|CleanArchitecture.UI\\CleanArchitecture.UI.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{858A205F-78F2-46D8-AE23-8C99B0A0C241}|CleanArchitecture.UI\\CleanArchitecture.UI.csproj|solutionrelative:cleanarchitecture.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5D4BD935-498E-4DFD-841C-278AFAE6C516}|CleanArchitecture.UseCases\\CleanArchitecture.UseCases.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.usecases\\professors\\create\\createprofessorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4BD935-498E-4DFD-841C-278AFAE6C516}|CleanArchitecture.UseCases\\CleanArchitecture.UseCases.csproj|solutionrelative:cleanarchitecture.usecases\\professors\\create\\createprofessorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{858A205F-78F2-46D8-AE23-8C99B0A0C241}|CleanArchitecture.UI\\CleanArchitecture.UI.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{858A205F-78F2-46D8-AE23-8C99B0A0C241}|CleanArchitecture.UI\\CleanArchitecture.UI.csproj|solutionrelative:cleanarchitecture.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D4BD935-498E-4DFD-841C-278AFAE6C516}|CleanArchitecture.UseCases\\CleanArchitecture.UseCases.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.usecases\\professors\\create\\createprofessorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4BD935-498E-4DFD-841C-278AFAE6C516}|CleanArchitecture.UseCases\\CleanArchitecture.UseCases.csproj|solutionrelative:cleanarchitecture.usecases\\professors\\create\\createprofessorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C90796D8-B6B3-41E0-88BA-0CD774FF5DB7}|CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.infra\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90796D8-B6B3-41E0-88BA-0CD774FF5DB7}|CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj|solutionrelative:cleanarchitecture.infra\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B1936FE-B2E2-4ED0-9AC7-786BF2FBB68D}|CleanArchitecture.Core\\CleanArchitecture.Core.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.core\\interfaces\\iprofessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1936FE-B2E2-4ED0-9AC7-786BF2FBB68D}|CleanArchitecture.Core\\CleanArchitecture.Core.csproj|solutionrelative:cleanarchitecture.core\\interfaces\\iprofessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C90796D8-B6B3-41E0-88BA-0CD774FF5DB7}|CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.infra\\data\\repositories\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90796D8-B6B3-41E0-88BA-0CD774FF5DB7}|CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj|solutionrelative:cleanarchitecture.infra\\data\\repositories\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B1936FE-B2E2-4ED0-9AC7-786BF2FBB68D}|CleanArchitecture.Core\\CleanArchitecture.Core.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.core\\entities\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B1936FE-B2E2-4ED0-9AC7-786BF2FBB68D}|CleanArchitecture.Core\\CleanArchitecture.Core.csproj|solutionrelative:cleanarchitecture.core\\entities\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C90796D8-B6B3-41E0-88BA-0CD774FF5DB7}|CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.infra\\data\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90796D8-B6B3-41E0-88BA-0CD774FF5DB7}|CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj|solutionrelative:cleanarchitecture.infra\\data\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C90796D8-B6B3-41E0-88BA-0CD774FF5DB7}|CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.infra\\data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90796D8-B6B3-41E0-88BA-0CD774FF5DB7}|CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj|solutionrelative:cleanarchitecture.infra\\data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D4BD935-498E-4DFD-841C-278AFAE6C516}|CleanArchitecture.UseCases\\CleanArchitecture.UseCases.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.usecases\\professors\\create\\createprofessorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4BD935-498E-4DFD-841C-278AFAE6C516}|CleanArchitecture.UseCases\\CleanArchitecture.UseCases.csproj|solutionrelative:cleanarchitecture.usecases\\professors\\create\\createprofessorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UI\\Program.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UI\\Program.cs",
-              "RelativeToolTip": "CleanArchitecture.UI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:53:16.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UI\\appsettings.json",
-              "RelativeDocumentMoniker": "CleanArchitecture.UI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UI\\appsettings.json",
-              "RelativeToolTip": "CleanArchitecture.UI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-05T14:35:31.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infra\\ServiceExtensions.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Infra\\ServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infra\\ServiceExtensions.cs",
-              "RelativeToolTip": "CleanArchitecture.Infra\\ServiceExtensions.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Title": "IProfessorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Core\\Interfaces\\IProfessorRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Core\\Interfaces\\IProfessorRepository.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Core\\Interfaces\\IProfessorRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Core\\Interfaces\\IProfessorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAkAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:35:06.768Z",
+              "WhenOpened": "2024-11-05T18:36:28.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Professor.cs",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Core\\Entities\\Professor.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Core\\Entities\\Professor.cs",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Core\\Entities\\Professor.cs",
-              "RelativeToolTip": "CleanArchitecture.Core\\Entities\\Professor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "CreateProfessorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UseCases\\Professors\\Create\\CreateProfessorRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.UseCases\\Professors\\Create\\CreateProfessorRequest.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UseCases\\Professors\\Create\\CreateProfessorRequest.cs",
+              "RelativeToolTip": "CleanArchitecture.UseCases\\Professors\\Create\\CreateProfessorRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:34:24.357Z",
+              "WhenOpened": "2024-11-05T18:32:52.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProfessorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infra\\Data\\Repositories\\ProfessorRepository.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Infra\\Data\\Repositories\\ProfessorRepository.cs",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infra\\Data\\Repositories\\ProfessorRepository.cs",
-              "RelativeToolTip": "CleanArchitecture.Infra\\Data\\Repositories\\ProfessorRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Title": "CreateProfessorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UseCases\\Professors\\Create\\CreateProfessorResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.UseCases\\Professors\\Create\\CreateProfessorResponse.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UseCases\\Professors\\Create\\CreateProfessorResponse.cs",
+              "RelativeToolTip": "CleanArchitecture.UseCases\\Professors\\Create\\CreateProfessorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:33:46.305Z",
+              "WhenOpened": "2024-11-05T18:30:46.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infra\\Data\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Infra\\Data\\Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infra\\Data\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "CleanArchitecture.Infra\\Data\\Repositories\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA8AAAA",
+              "DocumentIndex": 0,
+              "Title": "CreateProfessorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UseCases\\Professors\\Create\\CreateProfessorHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.UseCases\\Professors\\Create\\CreateProfessorHandler.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UseCases\\Professors\\Create\\CreateProfessorHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.UseCases\\Professors\\Create\\CreateProfessorHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:32:16.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infra\\Data\\Config\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Infra\\Data\\Config\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Infra\\Data\\Config\\AppDbContext.cs",
-              "RelativeToolTip": "CleanArchitecture.Infra\\Data\\Config\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:29:51.711Z",
+              "WhenOpened": "2024-11-05T18:29:12.611Z",
               "EditorCaption": ""
             }
           ]
