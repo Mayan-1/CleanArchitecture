@@ -1,4 +1,3 @@
-over
 # Clean Architeture
 
 ## **Principles**
