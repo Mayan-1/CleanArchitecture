@@ -49,7 +49,7 @@ Corollary: Abstractions/interfaces must be defined somewhere acessible by:
 
 The most common organization application logic into layers.
 
-![image3](https://github.com/user-attachments/assets/ae9c4e7a-b56c-436b-b327-9bf65e4ae2b6)
+![image3](https://github.com/user-attachments/assets/f012a8de-7a96-4d44-aea3-1ff57cc15c26)
 
 These layers are frequently abbreviated as UI, BLL, and DAL. Using this architecture, users make requests through the UI layer, which interacts with the BLL layer. The BLL, in turn, can call the DAL for data access requests. The UI layer should not interact directly with the DAL, nor should it interact with persistence directly through other means. Likewise, the business logic layer (BLL) should only interact with persistence by going through the data access layer (DAL).
 
@@ -60,16 +60,15 @@ One disadvantage of this traditional layered approach is that compile-time depen
 Clean architecture puts the business logic and application model at the center of the application. Instead of having business logic depend on data access or other infrastructure concerns, this
 dependency is inverted: infrastructure and implementation details depend on the Application Core. This functionality is achieved by defining abstractions, or interfaces, in the Application Core, which are then implemented by types defined in the Infrastructure layer.
 
-![image1](https://github.com/user-attachments/assets/83994045-6b18-44b3-b299-58ecfe681d78)
+![image1](https://github.com/user-attachments/assets/8f43a9e5-be4a-4f7a-8b31-2cb4747aba61)
 
-![image](https://github.com/user-attachments/assets/29f40158-b72b-4d32-8008-7a3f8d48dac3)
+![image](https://github.com/user-attachments/assets/5aa61ed5-5a16-4498-ae1f-a04a57069dbb)
 
 ### Organizing Code in Clean Architeture
 
-In a Clean Architecture solution, ![image1](https://github.com/user-attachments/assets/8f43a9e5-be4a-4f7a-8b31-2cb4747aba61)
+In a Clean Architecture solution, 
 each project has clear responsibilities. As such, certain types belong
-in each project and you’ll freq![image3](![image](https://github.com/user-attachments/assets/5aa61ed5-5a16-4498-ae1f-a04a57069dbb)
-https://github.com/user-attachments/assets/f012a8de-7a96-4d44-aea3-1ff57cc15c26)
+in each project and you’ll freq
 uently find folders corresponding to these types in the appropriate
 project
 
