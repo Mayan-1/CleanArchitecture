@@ -1,0 +1,16 @@
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\bin\Debug\net8.0\CleanArchitecture.UseCases.deps.json
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\bin\Debug\net8.0\CleanArchitecture.UseCases.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\bin\Debug\net8.0\CleanArchitecture.UseCases.pdb
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\bin\Debug\net8.0\CleanArchitecture.Core.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\bin\Debug\net8.0\CleanArchitecture.Core.pdb
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\obj\Debug\net8.0\CleanArchitecture.UseCases.csproj.AssemblyReference.cache
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\obj\Debug\net8.0\CleanArchitecture.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\obj\Debug\net8.0\CleanArchitecture.UseCases.AssemblyInfoInputs.cache
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\obj\Debug\net8.0\CleanArchitecture.UseCases.AssemblyInfo.cs
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\obj\Debug\net8.0\CleanArchitecture.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\obj\Debug\net8.0\CleanArchitecture.UseCases.sourcelink.json
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\obj\Debug\net8.0\CleanArc.BCE9B37F.Up2Date
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\obj\Debug\net8.0\CleanArchitecture.UseCases.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\obj\Debug\net8.0\refint\CleanArchitecture.UseCases.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\obj\Debug\net8.0\CleanArchitecture.UseCases.pdb
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UseCases\obj\Debug\net8.0\ref\CleanArchitecture.UseCases.dll

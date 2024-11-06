@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "rTW3YpLq8oivoOPseO8fJesmOBy5DgQd/l0CoeMmQfOVgMRUb9VwGf9hO6xdQNaoHkck2Rg+Ku22WRy9MRArnw==",
+  "dgSpecHash": "mXEqMOmLVKrB+rGuoRpW2SzOCvdF3U5PUxR2Ph1oDoPizhwnOv8nme/xB+fZQ/e02VLecdl9d7Ym8yRM7/JTcg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UseCases\\CleanArchitecture.UseCases.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mayam\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Mayam\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Mayam\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Mayam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mayam\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mayam\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mayam\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -9,3 +9,4 @@ C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture
 C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\obj\Debug\net8.0\refint\CleanArchitecture.Core.dll
 C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\obj\Debug\net8.0\CleanArchitecture.Core.pdb
 C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\obj\Debug\net8.0\ref\CleanArchitecture.Core.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Core\obj\Debug\net8.0\CleanArchitecture.Core.sourcelink.json

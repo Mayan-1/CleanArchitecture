@@ -1,4 +1,5 @@
-﻿using CleanArchitecture.Core.Entities;
+﻿using AutoMapper;
+using CleanArchitecture.Core.Entities;
 using CleanArchitecture.Core.Interfaces;
 
 namespace CleanArchitecture.UseCases.Professors.Create;
@@ -6,34 +7,25 @@ namespace CleanArchitecture.UseCases.Professors.Create;
 public class CreateProfessorHandler
 {
     private readonly IProfessorRepository _professorRepository;
-
-    public CreateProfessorHandler(IProfessorRepository professorRepository)
+    private readonly IUnitOfWork _uof;
+    private readonly IMapper _mapper;
+    public CreateProfessorHandler(IProfessorRepository professorRepository, IUnitOfWork uof, IMapper mapper)
     {
         _professorRepository = professorRepository;
+        _uof = uof;
+        _mapper = mapper;
     }
 
-    public async Task<CreateProfessorResponse> Handle(CreateProfessorRequest createProfessorRequest, 
+    public async Task<CreateProfessorResponse> Handle(CreateProfessorRequest request, 
         CancellationToken cancellationToken)
     {
-        var professor = new Professor
-        {
-            Name = createProfessorRequest.Name,
-            Email = createProfessorRequest.Email,
-            Password = createProfessorRequest.Password,
-        };
-
+        var professor = _mapper.Map<Professor>(request);
+        
         _professorRepository.Create(professor);
 
+        await _uof.Commit(cancellationToken);
 
-        var professorResponse = new CreateProfessorResponse
-        {
-            Id = professor.Id,
-            Name = professor.Name,
-            Email = professor.Email,
-            Password = professor.Password,
-        };
-
-        return professorResponse;
+        return _mapper.Map<CreateProfessorResponse>(professor);
 
     }
 }

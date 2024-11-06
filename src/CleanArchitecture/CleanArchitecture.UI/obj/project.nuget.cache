@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "pIBU1ZQhxt+65JwzSG+vdW7MRkRBp1XTFGIMvHDJu27w1uGeY3hxgOn+KFdDdO5g+OolsJoKFDJ3MKDuF6LDUA==",
+  "dgSpecHash": "KhVDrX6PWW/bLfRVAqqrYOgoKgICbkUcj7UqtgSNBAXaT5GjHlkGqU9UkVNN2g+a75RsTR3B7jaNLW6aVj15aw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UI\\CleanArchitecture.UI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mayam\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Mayam\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Mayam\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Mayam\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Mayam\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Mayam\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Mayam\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Mayam\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\Mayam\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",

@@ -15,3 +15,4 @@ C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture
 C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\CleanArchitecture.Infra.pdb
 C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\CleanArchitecture.Infra.genruntimeconfig.cache
 C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\ref\CleanArchitecture.Infra.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.Infra\obj\Debug\net8.0\CleanArchitecture.Infra.sourcelink.json
