@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\professors\\update\\updateprofessorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\professors\\update\\updateprofessorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\professors\\update\\updateprofessorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\professors\\update\\updateprofessorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\professors\\get\\getprofessorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\professors\\get\\getprofessorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{858A205F-78F2-46D8-AE23-8C99B0A0C241}|CleanArchitecture.UI\\CleanArchitecture.UI.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.ui\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{858A205F-78F2-46D8-AE23-8C99B0A0C241}|CleanArchitecture.UI\\CleanArchitecture.UI.csproj|solutionrelative:cleanarchitecture.ui\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\professors\\delete\\deleteprofessorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\professors\\delete\\deleteprofessorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\professors\\get\\getprofessorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\professors\\get\\getprofessorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\professors\\get\\getprofessormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\professors\\get\\getprofessormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\professors\\update\\updateprofessorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\professors\\update\\updateprofessorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DeleteProfessorHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Delete\\DeleteProfessorHandler.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Professors\\Delete\\DeleteProfessorHandler.cs",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Delete\\DeleteProfessorHandler.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Professors\\Delete\\DeleteProfessorHandler.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "UpdateProfessorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Update\\UpdateProfessorHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Professors\\Update\\UpdateProfessorHandler.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Update\\UpdateProfessorHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Professors\\Update\\UpdateProfessorHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T18:51:11.971Z",
+              "WhenOpened": "2024-11-07T18:28:17.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "UpdateProfessorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Update\\UpdateProfessorRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Professors\\Update\\UpdateProfessorRequest.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Update\\UpdateProfessorRequest.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Professors\\Update\\UpdateProfessorRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:28:18.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetProfessorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Get\\GetProfessorRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Professors\\Get\\GetProfessorRequest.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Get\\GetProfessorRequest.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Professors\\Get\\GetProfessorRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:08:33.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProfessorController.cs",
               "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UI\\Controllers\\ProfessorController.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.UI\\Controllers\\ProfessorController.cs",
               "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UI\\Controllers\\ProfessorController.cs",
               "RelativeToolTip": "CleanArchitecture.UI\\Controllers\\ProfessorController.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAA4wCYAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T18:32:52.601Z",
+              "WhenOpened": "2024-11-07T18:07:00.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetProfessorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Get\\GetProfessorHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Professors\\Get\\GetProfessorHandler.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Get\\GetProfessorHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Professors\\Get\\GetProfessorHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:04:54.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetProfessorMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Get\\GetProfessorMapper.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Professors\\Get\\GetProfessorMapper.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Get\\GetProfessorMapper.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Professors\\Get\\GetProfessorMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:03:57.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProfessorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Update\\UpdateProfessorResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Professors\\Update\\UpdateProfessorResponse.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Update\\UpdateProfessorResponse.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Professors\\Update\\UpdateProfessorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:03:35.812Z",
               "EditorCaption": ""
             }
           ]

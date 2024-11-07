@@ -1,6 +1,8 @@
 ﻿using CleanArchitecture.Application.Professors.Create;
 using CleanArchitecture.Application.UseCases.Professors.Delete;
+using CleanArchitecture.Application.UseCases.Professors.Get;
 using CleanArchitecture.Application.UseCases.Professors.GetAll;
+using CleanArchitecture.Application.UseCases.Professors.Update;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -15,6 +17,13 @@ namespace CleanArchitecture.UI.Controllers
         public ProfessorController(IMediator mediator)
         {
             _mediator = mediator;
+        }
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<GetProfessorResponse>> Get(int id, CancellationToken cancellationToken)
+        {
+            var response = await _mediator.Send(new GetProfessorRequest(id), cancellationToken);
+            return Ok(response);
         }
 
         [HttpGet]
@@ -39,6 +48,18 @@ namespace CleanArchitecture.UI.Controllers
 
             var response = await _mediator.Send(deleteProfessorRequest, cancellationToken);
             return Ok(response);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<ActionResult> Update(int id, UpdateProfessorRequest request, CancellationToken cancellationToken)
+        {
+            if (id != request.Id)
+                return BadRequest();
+
+            var response = await _mediator.Send(request);
+
+            return Ok(response);
+
         }
     }
 }
