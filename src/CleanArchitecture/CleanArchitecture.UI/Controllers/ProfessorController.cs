@@ -1,9 +1,11 @@
 ﻿using CleanArchitecture.Application.Professors.Create;
+using CleanArchitecture.Application.UseCases.Auth.Register;
 using CleanArchitecture.Application.UseCases.Professors.Delete;
 using CleanArchitecture.Application.UseCases.Professors.Get;
 using CleanArchitecture.Application.UseCases.Professors.GetAll;
 using CleanArchitecture.Application.UseCases.Professors.Update;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CleanArchitecture.UI.Controllers
@@ -27,6 +29,7 @@ namespace CleanArchitecture.UI.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<ActionResult<ICollection<GetAllProfessorResponse>>> GetAll(CancellationToken cancellationToken)
         {
             var reponse = await _mediator.Send(new GetAllProfessorRequest(), cancellationToken);
@@ -35,10 +38,10 @@ namespace CleanArchitecture.UI.Controllers
 
 
         [HttpPost]
-        public async Task<ActionResult> Create(CreateProfessorRequest request)
+        public async Task<ActionResult> Create(RegisterRequest request)
         {
-            var professorId = await _mediator.Send(request);
-            return Ok(professorId);
+            var professor = await _mediator.Send(request);
+            return Ok(professor);
         }
 
         [HttpDelete("{id}")]

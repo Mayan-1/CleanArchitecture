@@ -1,6 +1,7 @@
 ﻿using CleanArchitecture.Core.Interfaces;
 using CleanArchitecture.Infra.Data.Config;
 using CleanArchitecture.Infra.Data.Repositories;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -14,7 +15,6 @@ public static class ServiceExtensions
     {
         var connectionString = configuration.GetConnectionString("DefaultConnection");
         services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(connectionString));
-
         services.AddScoped<IUnitOfWork, UnitOfWork>();
         services.AddScoped<IProfessorRepository, ProfessorRepository>();
     }

@@ -13,6 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.UI", "Cle
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Application", "CleanArchitecture.Application\CleanArchitecture.Application.csproj", "{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C90796D8-B6B3-41E0-88BA-0CD774FF5DB7} = {C90796D8-B6B3-41E0-88BA-0CD774FF5DB7}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

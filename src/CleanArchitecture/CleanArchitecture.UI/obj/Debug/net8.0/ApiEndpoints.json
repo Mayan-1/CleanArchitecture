@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "CleanArchitecture.UI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArchitecture.Application.UseCases.Auth.Login.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitecture.UI.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArchitecture.Application.UseCases.Auth.Register.RegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CleanArchitecture.UI.Controllers.ProfessorController",
     "Method": "GetAll",
     "RelativePath": "api/Professor",
@@ -29,7 +61,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "CleanArchitecture.Application.Professors.Create.CreateProfessorRequest",
+        "Type": "CleanArchitecture.Application.UseCases.Auth.Register.RegisterRequest",
         "IsRequired": true
       }
     ],

@@ -19,7 +19,7 @@ public sealed class DeleteProfessorHandler : IRequestHandler<DeleteProfessorRequ
 
     public async Task<DeleteProfessorResponse> Handle(DeleteProfessorRequest request, CancellationToken cancellationToken)
     {
-        var professor = await _professorRepository.Get(request.id, cancellationToken);
+        var professor = await _professorRepository.Get(request.Id, cancellationToken);
         if (professor == null) return default;
 
         _professorRepository.Delete(professor);
