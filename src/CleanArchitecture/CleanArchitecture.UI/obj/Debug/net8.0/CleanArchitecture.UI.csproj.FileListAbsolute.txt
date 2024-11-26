@@ -160,3 +160,8 @@ C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture
 C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UI\bin\Debug\net8.0\System.ClientModel.dll
 C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UI\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UI\bin\Debug\net8.0\SendGrid.dll
+C:\Users\Mayam\Desktop\CleanArchitecture\src\CleanArchitecture\CleanArchitecture.UI\bin\Debug\net8.0\StarkbankEcdsa.dll

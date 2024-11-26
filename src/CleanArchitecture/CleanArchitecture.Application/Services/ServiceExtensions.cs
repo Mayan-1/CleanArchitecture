@@ -5,6 +5,7 @@ using MediatR;
 using CleanArchitecture.Application.Shared.Behavior;
 using Microsoft.AspNetCore.Identity;
 using CleanArchitecture.Application.Interfaces;
+using CleanArchitecture.Application.Services.Token;
 
 namespace CleanArchitecture.Application.Services;
 

@@ -7,11 +7,18 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using CleanArchitecture.Infra.Identity.User;
 using Microsoft.OpenApi.Models;
+using Microsoft.AspNetCore.Identity.UI.Services;
+using CleanArchitecture.Application.Services.Email;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.ConfigurePersistenceApp(builder.Configuration);
+
+builder.Services.Configure<EmailConfiguration>(builder.Configuration.GetSection("EmailConfiguration"));
+
+builder.Services.AddTransient<IEmailSender, EmailSender>();
+
 builder.Services.ConfigureApplicationApp();
 
 builder.Services.AddControllers();

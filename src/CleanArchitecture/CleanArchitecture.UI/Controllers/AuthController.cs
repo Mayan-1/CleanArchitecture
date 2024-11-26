@@ -4,9 +4,13 @@ using CleanArchitecture.Application.UseCases.Auth.Register;
 using CleanArchitecture.Application.UseCases.Auth.Revoke;
 using CleanArchitecture.Application.UseCases.Auth.Role.Create;
 using CleanArchitecture.Application.UseCases.Auth.Role.UserToRole;
+using CleanArchitecture.Infra.Identity.User;
 using MediatR;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.WebUtilities;
+using System.Text;
 
 namespace CleanArchitecture.UI.Controllers
 {
@@ -15,10 +19,12 @@ namespace CleanArchitecture.UI.Controllers
     public class AuthController : ControllerBase
     {
         private readonly IMediator _mediator;
+        private UserManager<ApplicationUser> _userManager;
 
-        public AuthController(IMediator mediator)
+        public AuthController(IMediator mediator, UserManager<ApplicationUser> userManager)
         {
             _mediator = mediator;
+            _userManager = userManager;
         }
 
         [HttpPost]
@@ -60,6 +66,25 @@ namespace CleanArchitecture.UI.Controllers
         {
             await _mediator.Send(request);
             return NoContent();
+        }
+
+        [HttpGet("confirm-email")]
+        public async Task<IActionResult> ConfirmEmail(string userId, string token)
+        {
+            if (string.IsNullOrEmpty(userId) || string.IsNullOrEmpty(token))
+                return BadRequest("UserId and Token are required");
+
+            var user = await _userManager.FindByIdAsync(userId);
+            if (user == null)
+                return NotFound("User not found");
+
+            var decodedToken = Encoding.UTF8.GetString(WebEncoders.Base64UrlDecode(token));
+            var result = await _userManager.ConfirmEmailAsync(user, decodedToken);
+
+            if (result.Succeeded)
+                return Ok("Email confirmed successfully!");
+
+            return BadRequest("Error confirming email.");
         }
 
     }

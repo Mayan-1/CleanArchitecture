@@ -17,6 +17,27 @@
   },
   {
     "ContainingType": "CleanArchitecture.UI.Controllers.AuthController",
+    "Method": "ConfirmEmail",
+    "RelativePath": "api/Auth/confirm-email",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitecture.UI.Controllers.AuthController",
     "Method": "CreateRole",
     "RelativePath": "api/Auth/CreateRole",
     "HttpMethod": "POST",

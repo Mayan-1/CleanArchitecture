@@ -6,7 +6,7 @@ using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace CleanArchitecture.Application.Services;
+namespace CleanArchitecture.Application.Services.Token;
 
 public class TokenService : ITokenService
 {
@@ -69,7 +69,7 @@ public class TokenService : ITokenService
         var principal = tokenHandler.ValidateToken(token, tokenValidationParameters,
             out SecurityToken securityToken);
 
-        if(securityToken is not JwtSecurityToken jwtSecurityToken || 
+        if (securityToken is not JwtSecurityToken jwtSecurityToken ||
             !jwtSecurityToken.Header.Alg.Equals(
              SecurityAlgorithms.HmacSha256,
              StringComparison.InvariantCultureIgnoreCase))

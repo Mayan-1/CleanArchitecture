@@ -2,6 +2,7 @@
 using CleanArchitecture.Infra.Data.Config;
 using CleanArchitecture.Infra.Data.Repositories;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
