@@ -11,27 +11,18 @@ namespace CleanArchitecture.Application.UseCases.Auth.Register;
 
 public class RegisterHandler : IRequestHandler<RegisterRequest, RegisterResponse>
 {
-    private readonly ITokenService _tokenService;
     private readonly UserManager<ApplicationUser> _userManager;
-    private readonly RoleManager<IdentityRole> _roleManager;
-    private readonly IConfiguration _configuration;
     private readonly IUnitOfWork _uof;
     private readonly IMapper _mapper;
     private readonly IProfessorRepository _professorRepository;
 
 
-    public RegisterHandler(ITokenService tokenService,
-        UserManager<ApplicationUser> userManager,
-        RoleManager<IdentityRole> roleManager,
-        IConfiguration configuration,
+    public RegisterHandler(UserManager<ApplicationUser> userManager,
         IUnitOfWork uof,
         IMapper mapper,
         IProfessorRepository professorRepository)
     {
-        _tokenService = tokenService;
         _userManager = userManager;
-        _roleManager = roleManager;
-        _configuration = configuration;
         _uof = uof;
         _mapper = mapper;
         _professorRepository = professorRepository;

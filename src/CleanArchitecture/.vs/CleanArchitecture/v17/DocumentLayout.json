@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\auth\\login\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\auth\\login\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{858A205F-78F2-46D8-AE23-8C99B0A0C241}|CleanArchitecture.UI\\CleanArchitecture.UI.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.ui\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858A205F-78F2-46D8-AE23-8C99B0A0C241}|CleanArchitecture.UI\\CleanArchitecture.UI.csproj|solutionrelative:cleanarchitecture.ui\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{858A205F-78F2-46D8-AE23-8C99B0A0C241}|CleanArchitecture.UI\\CleanArchitecture.UI.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.ui\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{858A205F-78F2-46D8-AE23-8C99B0A0C241}|CleanArchitecture.UI\\CleanArchitecture.UI.csproj|solutionrelative:cleanarchitecture.ui\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\auth\\register\\registerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\auth\\register\\registerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{858A205F-78F2-46D8-AE23-8C99B0A0C241}|CleanArchitecture.UI\\CleanArchitecture.UI.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858A205F-78F2-46D8-AE23-8C99B0A0C241}|CleanArchitecture.UI\\CleanArchitecture.UI.csproj|solutionrelative:cleanarchitecture.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{858A205F-78F2-46D8-AE23-8C99B0A0C241}|CleanArchitecture.UI\\CleanArchitecture.UI.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.ui\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{858A205F-78F2-46D8-AE23-8C99B0A0C241}|CleanArchitecture.UI\\CleanArchitecture.UI.csproj|solutionrelative:cleanarchitecture.ui\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\auth\\role\\usertorole\\usertorolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\auth\\role\\usertorole\\usertorolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\auth\\register\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\auth\\register\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\auth\\role\\usertorole\\usertorolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\auth\\role\\usertorole\\usertorolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\auth\\register\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\auth\\register\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\auth\\role\\create\\createrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\auth\\role\\create\\createrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\auth\\register\\registerprofessormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\auth\\register\\registerprofessormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\auth\\role\\create\\createroleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\auth\\role\\create\\createroleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\professors\\create\\createprofessormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\professors\\create\\createprofessormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\mayam\\desktop\\cleanarchitecture\\src\\cleanarchitecture\\cleanarchitecture.application\\usecases\\auth\\role\\create\\createrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD16507-5C03-4FB3-9E04-5C3A71E034A6}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\auth\\role\\create\\createrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +42,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UI\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.UI\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UI\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "CleanArchitecture.UI\\Controllers\\ProfessorController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:11:12.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UI\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UI\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture.UI\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:01:23.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserToRoleHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Role\\UserToRole\\UserToRoleHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Auth\\Role\\UserToRole\\UserToRoleHandler.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Role\\UserToRole\\UserToRoleHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Auth\\Role\\UserToRole\\UserToRoleHandler.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAxwCIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:01:51.534Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -52,100 +91,61 @@
               "RelativeDocumentMoniker": "CleanArchitecture.UI\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UI\\Controllers\\AuthController.cs",
               "RelativeToolTip": "CleanArchitecture.UI\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA2wBoAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCMAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T17:49:48.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Login\\LoginHandler.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Auth\\Login\\LoginHandler.cs",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Login\\LoginHandler.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Auth\\Login\\LoginHandler.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T17:23:18.261Z",
+              "WhenOpened": "2024-11-25T19:58:45.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RegisterValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterValidator.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterValidator.cs",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterValidator.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterValidator.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAwwA0AAAAXAAAA",
+              "Title": "CreateRoleHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Role\\Create\\CreateRoleHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Auth\\Role\\Create\\CreateRoleHandler.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Role\\Create\\CreateRoleHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Auth\\Role\\Create\\CreateRoleHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowBoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T17:23:08.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateProfessorMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Create\\CreateProfessorMapper.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Professors\\Create\\CreateProfessorMapper.cs",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Professors\\Create\\CreateProfessorMapper.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Professors\\Create\\CreateProfessorMapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T16:59:44.575Z",
+              "WhenOpened": "2024-11-25T19:58:29.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RegisterProfessorMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterProfessorMapper.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterProfessorMapper.cs",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterProfessorMapper.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterProfessorMapper.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Title": "CreateRoleResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Role\\Create\\CreateRoleResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Auth\\Role\\Create\\CreateRoleResponse.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Role\\Create\\CreateRoleResponse.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Auth\\Role\\Create\\CreateRoleResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T16:59:43.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterHandler.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterHandler.cs",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterHandler.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterHandler.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAuwDUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:37:51.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProfessorController.cs",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UI\\Controllers\\ProfessorController.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.UI\\Controllers\\ProfessorController.cs",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.UI\\Controllers\\ProfessorController.cs",
-              "RelativeToolTip": "CleanArchitecture.UI\\Controllers\\ProfessorController.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAIwCsAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T16:55:59.733Z",
+              "WhenOpened": "2024-11-25T19:58:27.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterRequest.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterRequest.cs",
-              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterRequest.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Auth\\Register\\RegisterRequest.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAwwA0AAAAAAAAA",
+              "Title": "UserToRoleValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Role\\UserToRole\\UserToRoleValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Auth\\Role\\UserToRole\\UserToRoleValidator.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Role\\UserToRole\\UserToRoleValidator.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Auth\\Role\\UserToRole\\UserToRoleValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T16:53:40.82Z",
+              "WhenOpened": "2024-11-25T19:56:56.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateRoleValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Role\\Create\\CreateRoleValidator.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\Auth\\Role\\Create\\CreateRoleValidator.cs",
+              "ToolTip": "C:\\Users\\Mayam\\Desktop\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\Auth\\Role\\Create\\CreateRoleValidator.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\Auth\\Role\\Create\\CreateRoleValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:56:12.305Z",
               "EditorCaption": ""
             }
           ]

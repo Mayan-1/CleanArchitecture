@@ -29,7 +29,7 @@ namespace CleanArchitecture.UI.Controllers
         }
 
         [HttpGet]
-        [Authorize]
+        [Authorize (Policy = "AdminPolicy")]
         public async Task<ActionResult<ICollection<GetAllProfessorResponse>>> GetAll(CancellationToken cancellationToken)
         {
             var reponse = await _mediator.Send(new GetAllProfessorRequest(), cancellationToken);
