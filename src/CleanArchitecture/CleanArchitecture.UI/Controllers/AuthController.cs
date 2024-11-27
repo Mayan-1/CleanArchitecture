@@ -1,16 +1,14 @@
-﻿using CleanArchitecture.Application.UseCases.Auth.Login;
+﻿using CleanArchitecture.Application.UseCases.Auth.ConfirmEmail;
 using CleanArchitecture.Application.UseCases.Auth.RefreshToken;
-using CleanArchitecture.Application.UseCases.Auth.Register;
 using CleanArchitecture.Application.UseCases.Auth.Revoke;
 using CleanArchitecture.Application.UseCases.Auth.Role.Create;
 using CleanArchitecture.Application.UseCases.Auth.Role.UserToRole;
-using CleanArchitecture.Infra.Identity.User;
 using MediatR;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.WebUtilities;
-using System.Text;
+using ForgotPasswordRequest = CleanArchitecture.Application.UseCases.Auth.ForgotPassword.ForgotPasswordRequest;
+using LoginRequest = CleanArchitecture.Application.UseCases.Auth.Login.LoginRequest;
+using ResetPasswordRequest = CleanArchitecture.Application.UseCases.Auth.ResetPassword.ResetPasswordRequest;
 
 namespace CleanArchitecture.UI.Controllers
 {
@@ -19,16 +17,14 @@ namespace CleanArchitecture.UI.Controllers
     public class AuthController : ControllerBase
     {
         private readonly IMediator _mediator;
-        private UserManager<ApplicationUser> _userManager;
 
-        public AuthController(IMediator mediator, UserManager<ApplicationUser> userManager)
+        public AuthController(IMediator mediator)
         {
             _mediator = mediator;
-            _userManager = userManager;
         }
 
         [HttpPost]
-        [Route("CreateRole")]
+        [Route("create-role")]
         public async Task<ActionResult> CreateRole(CreateRoleRequest request)
         {
             await _mediator.Send(request);
@@ -36,7 +32,7 @@ namespace CleanArchitecture.UI.Controllers
         }
 
         [HttpPost]
-        [Route("AddUserToRole")]
+        [Route("add-user-to-role")]
         public async Task<ActionResult> AddUserToRole(UserToRoleRequest request)
         {
             await _mediator.Send(request);
@@ -69,23 +65,30 @@ namespace CleanArchitecture.UI.Controllers
         }
 
         [HttpGet("confirm-email")]
-        public async Task<IActionResult> ConfirmEmail(string userId, string token)
+        public async Task<IActionResult> ConfirmEmail(ConfirmEmailRequest request)
         {
-            if (string.IsNullOrEmpty(userId) || string.IsNullOrEmpty(token))
-                return BadRequest("UserId and Token are required");
-
-            var user = await _userManager.FindByIdAsync(userId);
-            if (user == null)
-                return NotFound("User not found");
-
-            var decodedToken = Encoding.UTF8.GetString(WebEncoders.Base64UrlDecode(token));
-            var result = await _userManager.ConfirmEmailAsync(user, decodedToken);
-
-            if (result.Succeeded)
-                return Ok("Email confirmed successfully!");
-
-            return BadRequest("Error confirming email.");
+            await _mediator.Send(request);
+            return Ok();
         }
+
+        [HttpPost]
+        [Route("forgot-password")]
+        public async Task<IActionResult> ForgotPassword(ForgotPasswordRequest request)
+        {
+            await _mediator.Send(request);
+            return Ok("Password reset link has been sent to your email.");
+        }
+
+        [HttpPost]
+        [Route("reset-password")]
+        public async Task<IActionResult> ResetPassword(ResetPasswordRequest request)
+        {
+            await _mediator.Send(request);
+            return Ok("Password reset sucessfully");
+        }
+        
+
+        
 
     }
 }

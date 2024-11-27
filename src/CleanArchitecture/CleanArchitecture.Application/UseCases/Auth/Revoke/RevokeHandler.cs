@@ -17,12 +17,12 @@ public class RevokeHandler : IRequestHandler<RevokeRequest, RevokeResponse>
 
     public async Task<RevokeResponse> Handle(RevokeRequest request, CancellationToken cancellationToken)
     {
-        var user = await _userManager.FindByNameAsync(request.UserName);
+        var user = await _userManager.FindByEmailAsync(request.Email);
 
         if (user == null)
             throw new ArgumentNullException();
 
-        user.RefreshToken = null;
+        user.RefreshToken = string.Empty;
 
         await _userManager.UpdateAsync(user);
 

@@ -27,7 +27,7 @@ public class LoginHandler : IRequestHandler<LoginRequest, LoginResponse>
     {
         var user = await _userManager.FindByEmailAsync(request.Email!);
 
-        if (user is null && !await _userManager.CheckPasswordAsync(user, request.Password!))
+        if (user is null || !await _userManager.CheckPasswordAsync(user, request.Password!))
             throw new InvalidOperationException("Invalid email or password.");
 
         var userRoles = await _userManager.GetRolesAsync(user);

@@ -2,7 +2,7 @@
   {
     "ContainingType": "CleanArchitecture.UI.Controllers.AuthController",
     "Method": "AddUserToRole",
-    "RelativePath": "api/Auth/AddUserToRole",
+    "RelativePath": "api/Auth/add-user-to-role",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -24,14 +24,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "userId",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "token",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "request",
+        "Type": "CleanArchitecture.Application.UseCases.Auth.ConfirmEmail.ConfirmEmailRequest",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -39,7 +34,7 @@
   {
     "ContainingType": "CleanArchitecture.UI.Controllers.AuthController",
     "Method": "CreateRole",
-    "RelativePath": "api/Auth/CreateRole",
+    "RelativePath": "api/Auth/create-role",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -47,6 +42,22 @@
       {
         "Name": "request",
         "Type": "CleanArchitecture.Application.UseCases.Auth.Role.Create.CreateRoleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitecture.UI.Controllers.AuthController",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/Auth/forgot-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArchitecture.Application.UseCases.Auth.ForgotPassword.ForgotPasswordRequest",
         "IsRequired": true
       }
     ],
@@ -79,6 +90,22 @@
       {
         "Name": "request",
         "Type": "CleanArchitecture.Application.UseCases.Auth.RefreshToken.RefreshTokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitecture.UI.Controllers.AuthController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/Auth/reset-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArchitecture.Application.UseCases.Auth.ResetPassword.ResetPasswordRequest",
         "IsRequired": true
       }
     ],

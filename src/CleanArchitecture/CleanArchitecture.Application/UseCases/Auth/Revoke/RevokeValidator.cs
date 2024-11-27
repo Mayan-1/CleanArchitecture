@@ -11,6 +11,6 @@ public sealed class RevokeValidator : AbstractValidator<RevokeRequest>
 {
     public RevokeValidator()
     {
-        RuleFor(x => x.UserName).NotEmpty();
+        RuleFor(x => x.Email).NotEmpty();
     }
 }
