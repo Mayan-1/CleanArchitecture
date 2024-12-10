@@ -14,44 +14,51 @@ jobs:
     runs-on: windows-latest
 
     steps:
+      # Checkout the repository
       - uses: actions/checkout@v4
 
+      # Set up the .NET Core SDK
       - name: Set up .NET Core
         uses: actions/setup-dotnet@v1
         with:
-          dotnet-version: "8.x"
+          dotnet-version: "8.x" # Adjust to "7.x" or "6.x" if necessary
           include-prerelease: true
 
+      # Build the solution
       - name: Build with dotnet
         run: dotnet build ./src/CleanArchitecture/CleanArchitecture.sln --configuration Release
 
+      # Publish the build output
       - name: dotnet publish
-        run: dotnet publish ./src/CleanArchitecture/CleanArchitecture.sln -c Release -o ./publish
+        run: dotnet publish ./src/CleanArchitecture/CleanArchitecture.sln -c Release -o ./src/CleanArchitecture/publish
 
+      # Upload the published artifact for deployment
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v3
         with:
           name: .net-app
-          path: ./publish
+          path: ./src/CleanArchitecture/publish
 
   deploy:
     runs-on: windows-latest
     needs: build
     environment:
       name: "Production"
-      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
+      url: "https://CleanArchitecture.azurewebsites.net" # Replace with the actual URL of your app
 
     steps:
+      # Download the artifact from the build job
       - name: Download artifact from build job
         uses: actions/download-artifact@v3
         with:
           name: .net-app
 
+      # Deploy the app to Azure Web App
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
-          app-name: "CleanArchitecture"
-          slot-name: "Production"
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0839339685E4498D8F2AC4B1BE0A01B2 }}
-          package: ./publish
+          app-name: "CleanArchitecture" # Replace with the exact Azure App Service name
+          slot-name: "production" # Adjust or remove if you are not using slots
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
+          package: ./src/CleanArchitecture/publish
